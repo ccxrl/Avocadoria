@@ -66,7 +66,6 @@ Welcome to the **Avocadoria Ice Cream Store POS Desktop App**, a streamlined Poi
 ![image](images/order.png)
 ![image](images/order_list.png)
 ![image](images/order_hist.png)
-![image](images/employees.png)
 
 ---
 
