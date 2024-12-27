@@ -1,0 +1,126 @@
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\avocadoria_project_2.exe
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\avocadoria_project_2.deps.json
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\avocadoria_project_2.runtimeconfig.json
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\avocadoria_project_2.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\avocadoria_project_2.pdb
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.csproj.AssemblyReference.cache
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.Properties.Resources.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.csproj.GenerateResource.cache
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.AssemblyInfoInputs.cache
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.AssemblyInfo.cs
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.csproj.CoreCompileInputs.cache
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\refint\avocadoria_project_2.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.pdb
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.genruntimeconfig.cache
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\ref\avocadoria_project_2.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.Home.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.Products.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.Employees.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.Orders.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.csproj.CopyComplete
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.OrderItems.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.Login.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.OrderItemsArchive.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\avocadoria_project_2.exe
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\avocadoria_project_2.deps.json
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\avocadoria_project_2.runtimeconfig.json
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\avocadoria_project_2.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\avocadoria_project_2.pdb
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.csproj.AssemblyReference.cache
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.Employees.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.Home.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.Login.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.OrderItems.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.OrderItemsArchive.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.Orders.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.Products.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.Properties.Resources.resources
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.csproj.GenerateResource.cache
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.AssemblyInfoInputs.cache
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.AssemblyInfo.cs
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.csproj.CoreCompileInputs.cache
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.csproj.CopyComplete
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\refint\avocadoria_project_2.dll
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.pdb
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\avocadoria_project_2.genruntimeconfig.cache
+C:\Users\yeiru\source\repos\avocadoria_project_2 - DONE FINAL DAY\avocadoria_project_2\obj\Debug\net6.0-windows\ref\avocadoria_project_2.dll
